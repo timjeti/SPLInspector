@@ -1,0 +1,7 @@
+# Ignore wallets directory
+wallets/
+
+# Ignore config directory
+wallets_backup/
+
+node_modules/
