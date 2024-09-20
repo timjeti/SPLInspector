@@ -5,3 +5,5 @@ wallets/
 wallets_backup/
 
 node_modules/
+
+.vscode/
